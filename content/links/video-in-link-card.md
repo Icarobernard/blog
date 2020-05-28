@@ -1,12 +1,13 @@
 ---
-title: Video in Link Card
-date: 2019-11-11
-link: https://www.youtube.com/watch?v=7V6FFeZdFz4
-tags: ['video', 'link']
+title: Breve reflexão sobre estética
+date: 2020-05-25
+link: https://www.youtube.com/watch?v=gK6Ttxvlx1Y
+tags: ['video']
 ---
 
 <Embed
-  src="https://www.youtube.com/embed/7V6FFeZdFz4"
+  src="https://www.youtube.com/embed/gK6Ttxvlx1Y"
 />
 
-An example of how you can embed YouTube videos in a **link card**. Link leads to this video on YouTube.
+Meus queridos, por anos a filosofia tem se empenhado a entender a essência da beleza.
+Foi incrível refletir a idéia junto com o amigo Jonas Gomes.
