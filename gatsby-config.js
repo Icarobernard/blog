@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Icaro Bernard',
     siteDescription: 'Sobre coisas que curto explicar',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://icarobernard.netlify.app/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Chronoblog Gatsby Theme`,
-        short_name: `Chronoblog`,
+        name: `icaro Bernard`,
+        short_name: `bernard`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
